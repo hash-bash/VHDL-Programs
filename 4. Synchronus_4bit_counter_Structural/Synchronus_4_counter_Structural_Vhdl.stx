@@ -1,0 +1,24 @@
+Release 8.1i - xst I.24
+Copyright (c) 1995-2005 Xilinx, Inc.  All rights reserved.
+--> Parameter TMPDIR set to ./xst/projnav.tmp
+CPU : 0.00 / 0.15 s | Elapsed : 0.00 / 1.00 s
+ 
+--> 
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling vhdl file "D:/Xilinx/Synchronus_4_counter_Structural/Synchronus_4_counter_Structural_Vhdl.vhd" in Library work.
+Entity <JK_FF> compiled.
+Entity <JK_FF> (Architecture <Behavioral>) compiled.
+Entity <Synchronus_4_counter_Structural_Vhdl> compiled.
+Entity <Synchronus_4_counter_Structural_Vhdl> (Architecture <STRUCTURAL>) compiled.
+CPU : 0.14 / 0.29 s | Elapsed : 0.00 / 1.00 s
+ 
+--> 
+
+Total memory usage is 142828 kilobytes
+
+Number of errors   :    0 (   0 filtered)
+Number of warnings :    0 (   0 filtered)
+Number of infos    :    0 (   0 filtered)
+

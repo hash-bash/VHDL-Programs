@@ -1,0 +1,7 @@
+AR half_adder dataflow D:/Xilinx/Full_Adder_Structural/Full_Adder_Structural_vhdl.vhd sub00/vhpl03 1570515118
+AR full_adder_structural_vhdl structural D:/Xilinx/Full_Adder_Structural/Full_Adder_Structural_vhdl.vhd sub00/vhpl06 1570515122
+EN half_adder NULL D:/Xilinx/Full_Adder_Structural/Full_Adder_Structural_vhdl.vhd sub00/vhpl02 1570515117
+EN full_adder_structural_vhdl NULL D:/Xilinx/Full_Adder_Structural/Full_Adder_Structural_vhdl.vhd sub00/vhpl00 1570515121
+EN or_gate NULL D:/Xilinx/Full_Adder_Structural/Full_Adder_Structural_vhdl.vhd sub00/vhpl04 1570515119
+AR full_adder_structural_vhdl behavioral C:/Xilinx/Full_Adder_Structural/Full_Adder_Structural_vhdl.vhd sub00/vhpl01 1570301761
+AR or_gate dataflow D:/Xilinx/Full_Adder_Structural/Full_Adder_Structural_vhdl.vhd sub00/vhpl05 1570515120

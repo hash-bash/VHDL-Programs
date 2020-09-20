@@ -1,0 +1,175 @@
+Release 8.1i - xst I.24
+Copyright (c) 1995-2005 Xilinx, Inc.  All rights reserved.
+--> Parameter TMPDIR set to ./xst/projnav.tmp
+CPU : 0.00 / 0.15 s | Elapsed : 0.00 / 0.00 s
+ 
+--> Parameter xsthdpdir set to ./xst
+CPU : 0.00 / 0.15 s | Elapsed : 0.00 / 0.00 s
+ 
+--> Reading design: MUX4_1ST_VHDL.prj
+
+TABLE OF CONTENTS
+  1) Synthesis Options Summary
+  2) HDL Compilation
+  3) HDL Analysis
+  4) HDL Synthesis
+     4.1) HDL Synthesis Report
+  5) Advanced HDL Synthesis
+     5.1) Advanced HDL Synthesis Report
+  6) Low Level Synthesis
+  7) Final Report
+
+=========================================================================
+*                      Synthesis Options Summary                        *
+=========================================================================
+---- Source Parameters
+Input File Name                    : "MUX4_1ST_VHDL.prj"
+Input Format                       : mixed
+Ignore Synthesis Constraint File   : NO
+
+---- Target Parameters
+Output File Name                   : "MUX4_1ST_VHDL"
+Output Format                      : NGC
+Target Device                      : Automotive CoolRunner2
+
+---- Source Options
+Top Module Name                    : MUX4_1ST_VHDL
+Automatic FSM Extraction           : YES
+FSM Encoding Algorithm             : Auto
+Mux Extraction                     : YES
+Resource Sharing                   : YES
+
+---- Target Options
+Add IO Buffers                     : YES
+MACRO Preserve                     : YES
+XOR Preserve                       : YES
+Equivalent register Removal        : YES
+
+---- General Options
+Optimization Goal                  : Speed
+Optimization Effort                : 1
+Keep Hierarchy                     : YES
+RTL Output                         : Yes
+Hierarchy Separator                : /
+Bus Delimiter                      : <>
+Case Specifier                     : maintain
+
+---- Other Options
+lso                                : MUX4_1ST_VHDL.lso
+verilog2001                        : YES
+safe_implementation                : No
+wysiwyg                            : NO
+
+=========================================================================
+
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling vhdl file "C:/Xilinx/MUX4_1STRUCT/MUX4_1ST_VHDL.vhd" in Library work.
+Architecture dataflow of Entity and_gate is up to date.
+Architecture dataflow of Entity or_gate is up to date.
+Architecture dataflow of Entity or_gate is up to date.
+Architecture behavioral of Entity mux4_1st_vhdl is up to date.
+
+=========================================================================
+*                            HDL Analysis                               *
+=========================================================================
+Analyzing Entity <MUX4_1ST_VHDL> (Architecture <behavioral>).
+WARNING:Xst:766 - "C:/Xilinx/MUX4_1STRUCT/MUX4_1ST_VHDL.vhd" line 131: Generating a Black Box for component <NOT_GATE>.
+WARNING:Xst:766 - "C:/Xilinx/MUX4_1STRUCT/MUX4_1ST_VHDL.vhd" line 133: Generating a Black Box for component <NOT_GATE>.
+Entity <MUX4_1ST_VHDL> analyzed. Unit <MUX4_1ST_VHDL> generated.
+
+Analyzing Entity <AND_GATE> (Architecture <dataflow>).
+Entity <AND_GATE> analyzed. Unit <AND_GATE> generated.
+
+Analyzing Entity <OR_GATE> (Architecture <dataflow>).
+Entity <OR_GATE> analyzed. Unit <OR_GATE> generated.
+
+
+=========================================================================
+*                           HDL Synthesis                               *
+=========================================================================
+
+Synthesizing Unit <OR_GATE>.
+    Related source file is "C:/Xilinx/MUX4_1STRUCT/MUX4_1ST_VHDL.vhd".
+Unit <OR_GATE> synthesized.
+
+
+Synthesizing Unit <AND_GATE>.
+    Related source file is "C:/Xilinx/MUX4_1STRUCT/MUX4_1ST_VHDL.vhd".
+Unit <AND_GATE> synthesized.
+
+
+Synthesizing Unit <MUX4_1ST_VHDL>.
+    Related source file is "C:/Xilinx/MUX4_1STRUCT/MUX4_1ST_VHDL.vhd".
+WARNING:Xst:653 - Signal <selbar0> is used but never assigned. Tied to value 0.
+Unit <MUX4_1ST_VHDL> synthesized.
+
+
+=========================================================================
+HDL Synthesis Report
+
+Found no macro
+=========================================================================
+
+=========================================================================
+*                       Advanced HDL Synthesis                          *
+=========================================================================
+
+WARNING:Xst:1290 - Hierarchical block <A1> is unconnected in block <MUX4_1ST_VHDL>.
+   It will be removed from the design.
+WARNING:Xst:1290 - Hierarchical block <A3> is unconnected in block <MUX4_1ST_VHDL>.
+   It will be removed from the design.
+
+=========================================================================
+Advanced HDL Synthesis Report
+
+Found no macro
+=========================================================================
+
+=========================================================================
+*                         Low Level Synthesis                           *
+=========================================================================
+WARNING:Xst:1355 - Unit AND_GATE is merged (low complexity)
+WARNING:Xst:1355 - Unit OR_GATE is merged (low complexity)
+
+Optimizing unit <MUX4_1ST_VHDL> ...
+
+=========================================================================
+*                            Final Report                               *
+=========================================================================
+Final Results
+RTL Top Level Output File Name     : MUX4_1ST_VHDL.ngr
+Top Level Output File Name         : MUX4_1ST_VHDL
+Output Format                      : NGC
+Optimization Goal                  : Speed
+Keep Hierarchy                     : YES
+Target Technology                  : Automotive CoolRunner2
+Macro Preserve                     : YES
+XOR Preserve                       : YES
+wysiwyg                            : NO
+
+Design Statistics
+# IOs                              : 7
+
+Cell Usage :
+# BELS                             : 3
+#      AND3                        : 2
+#      OR2                         : 1
+# IO Buffers                       : 5
+#      IBUF                        : 4
+#      OBUF                        : 1
+# Others                           : 2
+#      NOT_GATE                    : 2
+=========================================================================
+CPU : 2.43 / 2.60 s | Elapsed : 3.00 / 3.00 s
+ 
+--> 
+
+Total memory usage is 147288 kilobytes
+
+Number of errors   :    0 (   0 filtered)
+Number of warnings :    7 (   0 filtered)
+Number of infos    :    0 (   0 filtered)
+

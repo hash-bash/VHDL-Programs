@@ -1,0 +1,6 @@
+EN mux2_1waave NULL C:/Xilinx/MUX2_1/MUX2_1WAAVE.vhw sub00/vhpl04 1570344122
+AR mux2_1vhdl behavioral C:/Xilinx/MUX2_1/MUX2_1VHDL.vhd sub00/vhpl01 1570344028
+EN mux2_1wave NULL C:/Xilinx/MUX2_1/MUX2_1WAVE.vhw sub00/vhpl02 1570344029
+AR mux2_1waave testbench_arch C:/Xilinx/MUX2_1/MUX2_1WAAVE.vhw sub00/vhpl05 1570344123
+AR mux2_1wave testbench_arch C:/Xilinx/MUX2_1/MUX2_1WAVE.vhw sub00/vhpl03 1570344030
+EN mux2_1vhdl NULL C:/Xilinx/MUX2_1/MUX2_1VHDL.vhd sub00/vhpl00 1570344027

@@ -1,0 +1,25 @@
+ command line:
+   ./DECODER3_8WAVE_isim_beh.exe
+     -intstyle  ise
+     -ipchost  localhost
+     -ipcport  54989
+
+Sun Oct 06 12:51:10 2019
+
+Total Line Count = 738
+
+ Elaboration time 0.015625 sec.
+
+ Estimate current memory usage 73.982 Meg. 
+
+ Total signals 4
+ Total nets 11
+ Total signal drivers 2
+ Total blocks 7
+ Total primitive blocks 1
+ Total processes 2
+ntrace select -o on -m / -l this 
+ntrace start 
+run all 
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.

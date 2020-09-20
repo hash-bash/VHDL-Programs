@@ -1,0 +1,30 @@
+ command line:
+   ./JK_FF_wave_isim_beh.exe
+     -intstyle  ise
+     -ipchost  localhost
+     -ipcport  55823
+
+Sun Oct 06 23:10:01 2019
+
+Total Line Count = 761
+
+ Elaboration time 0.015625 sec.
+
+ Estimate current memory usage 73.429 Meg. 
+
+ Total signals 13
+ Total nets 7
+ Total signal drivers 5
+ Total blocks 7
+ Total primitive blocks 1
+ Total processes 3
+ntrace select -o on -n /JK_FF_wave/clk 
+ntrace select -o on -n /JK_FF_wave/clear 
+ntrace select -o on -n /JK_FF_wave/preset 
+ntrace select -o on -n /JK_FF_wave/j 
+ntrace select -o on -n /JK_FF_wave/k 
+ntrace select -o on -n /JK_FF_wave/q 
+ntrace start 
+run all 
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.

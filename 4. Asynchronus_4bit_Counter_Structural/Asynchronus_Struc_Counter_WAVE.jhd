@@ -1,0 +1,3 @@
+MODULE Asynchronus_Struc_Counter_WAVE
+SUBMODULE Asynchronus_Struc_Counter_vhdl
+INSTANCE UUT

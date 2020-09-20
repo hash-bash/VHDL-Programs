@@ -1,0 +1,25 @@
+ command line:
+   ./Synchronus_4_counter_Structural_Wave_isim_beh.exe
+     -intstyle  ise
+     -ipchost  localhost
+     -ipcport  51471
+
+Tue Oct 08 19:43:43 2019
+
+Total Line Count = 827
+
+ Elaboration time 0 sec.
+
+ Estimate current memory usage 74.0844 Meg. 
+
+ Total signals 33
+ Total nets 18
+ Total signal drivers 16
+ Total blocks 11
+ Total primitive blocks 4
+ Total processes 12
+ntrace select -o on -m / -l this 
+ntrace start 
+run all 
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.

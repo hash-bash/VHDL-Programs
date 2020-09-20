@@ -1,0 +1,21 @@
+V3 9
+FL D:/Xilinx/Half_Adder_Structural/Half_Adder_Structural_vhdl.vhd 2019/10/06.14:50:16 I.24
+EN work/HA_XOR 1570353654          FL D:/Xilinx/Half_Adder_Structural/Half_Adder_Structural_vhdl.vhd \
+      PB ieee/std_logic_1164 1131108373 PB ieee/std_logic_arith 1131108375 \
+      PB ieee/STD_LOGIC_UNSIGNED 1131108379
+AR work/HA_XOR/DATAFLOW 1570353655 \
+      FL D:/Xilinx/Half_Adder_Structural/Half_Adder_Structural_vhdl.vhd \
+      EN work/HA_XOR 1570353654
+EN work/HA_AND 1570353656          FL D:/Xilinx/Half_Adder_Structural/Half_Adder_Structural_vhdl.vhd \
+      PB ieee/std_logic_1164 1131108373 PB ieee/std_logic_arith 1131108375 \
+      PB ieee/STD_LOGIC_UNSIGNED 1131108379
+AR work/HA_AND/DATAFLOW 1570353657 \
+      FL D:/Xilinx/Half_Adder_Structural/Half_Adder_Structural_vhdl.vhd \
+      EN work/HA_AND 1570353656
+EN work/Half_Adder_Structural_vhdl 1570353658 \
+      FL D:/Xilinx/Half_Adder_Structural/Half_Adder_Structural_vhdl.vhd \
+      PB ieee/std_logic_1164 1131108373 PB ieee/std_logic_arith 1131108375 \
+      PB ieee/STD_LOGIC_UNSIGNED 1131108379
+AR work/Half_Adder_Structural_vhdl/STRUCTURAL 1570353659 \
+      FL D:/Xilinx/Half_Adder_Structural/Half_Adder_Structural_vhdl.vhd \
+      EN work/Half_Adder_Structural_vhdl 1570353658 CP HA_XOR CP HA_AND

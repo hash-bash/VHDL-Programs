@@ -1,0 +1,25 @@
+ command line:
+   ./MUX8_1WAVE_isim_beh.exe
+     -intstyle  ise
+     -ipchost  localhost
+     -ipcport  54985
+
+Sun Oct 06 12:27:59 2019
+
+Total Line Count = 763
+
+ Elaboration time 0 sec.
+
+ Estimate current memory usage 74.3793 Meg. 
+
+ Total signals 20
+ Total nets 12
+ Total signal drivers 4
+ Total blocks 7
+ Total primitive blocks 1
+ Total processes 3
+ntrace select -o on -m / -l this 
+ntrace start 
+run all 
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.

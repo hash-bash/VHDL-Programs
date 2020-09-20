@@ -1,0 +1,4 @@
+EN half_subtractor_behavioral_vhdl NULL D:/Xilinx/Half_Subtractor_Behavioral/Half_Subtractor_Behavioral_vhdl.vhd sub00/vhpl00 1570354406
+EN half_subtractor_behavioral_wave NULL D:/Xilinx/Half_Subtractor_Behavioral/Half_Subtractor_Behavioral_Wave.vhw sub00/vhpl02 1570354408
+AR half_subtractor_behavioral_wave testbench_arch D:/Xilinx/Half_Subtractor_Behavioral/Half_Subtractor_Behavioral_Wave.vhw sub00/vhpl03 1570354409
+AR half_subtractor_behavioral_vhdl behavioral D:/Xilinx/Half_Subtractor_Behavioral/Half_Subtractor_Behavioral_vhdl.vhd sub00/vhpl01 1570354407

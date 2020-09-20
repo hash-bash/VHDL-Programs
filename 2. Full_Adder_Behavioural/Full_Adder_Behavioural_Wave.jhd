@@ -1,0 +1,3 @@
+MODULE Full_Adder_Behavioural_Wave
+SUBMODULE Full_Adder_Behavioural_vhdl
+INSTANCE UUT

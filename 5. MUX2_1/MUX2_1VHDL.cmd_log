@@ -1,0 +1,2 @@
+xst -ise "C:/Xilinx/MUX2_1/MUX2_1" -intstyle ise -ifn MUX2_1VHDL.xst -ofn MUX2_1VHDL.syr
+xst -ise "C:/Xilinx/MUX2_1/MUX2_1" -intstyle ise -ifn MUX2_1VHDL.xst -ofn MUX2_1VHDL.syr

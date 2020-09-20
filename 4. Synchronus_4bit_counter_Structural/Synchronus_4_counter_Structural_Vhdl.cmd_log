@@ -1,0 +1,1 @@
+xst -ise "D:/Xilinx/Synchronus_4_counter_Structural/Synchronus_4_counter_Structural" -intstyle ise -ifn Synchronus_4_counter_Structural_Vhdl.xst -ofn Synchronus_4_counter_Structural_Vhdl.syr

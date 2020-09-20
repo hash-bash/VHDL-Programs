@@ -1,0 +1,4 @@
+AR full_adder_dataflow_vhdl behavioral C:/Xilinx/Full_Adder_Dataflow/Full_Adder_Dataflow_vhdl.vhd sub00/vhpl01 1570299414
+AR full_adder_dataflow_wave testbench_arch C:/Xilinx/Full_Adder_Dataflow/Full_Adder_Dataflow_Wave.vhw sub00/vhpl03 1570299416
+EN full_adder_dataflow_vhdl NULL C:/Xilinx/Full_Adder_Dataflow/Full_Adder_Dataflow_vhdl.vhd sub00/vhpl00 1570299413
+EN full_adder_dataflow_wave NULL C:/Xilinx/Full_Adder_Dataflow/Full_Adder_Dataflow_Wave.vhw sub00/vhpl02 1570299415

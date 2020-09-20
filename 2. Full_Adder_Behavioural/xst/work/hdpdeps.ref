@@ -1,0 +1,9 @@
+V3 3
+FL D:/Xilinx/Full_Adder_Behavioural/Full_Adder_Behavioural_vhdl.vhd 2019/10/06.02:23:40 I.24
+EN work/Full_Adder_Behavioural_vhdl 1570436690 \
+      FL D:/Xilinx/Full_Adder_Behavioural/Full_Adder_Behavioural_vhdl.vhd \
+      PB ieee/std_logic_1164 1131108373 PB ieee/std_logic_arith 1131108375 \
+      PB ieee/STD_LOGIC_UNSIGNED 1131108379
+AR work/Full_Adder_Behavioural_vhdl/Behavioral 1570436691 \
+      FL D:/Xilinx/Full_Adder_Behavioural/Full_Adder_Behavioural_vhdl.vhd \
+      EN work/Full_Adder_Behavioural_vhdl 1570436690

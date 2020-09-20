@@ -1,0 +1,25 @@
+ command line:
+   ./Half_Adder_Structural_Wave_isim_beh.exe
+     -intstyle  ise
+     -ipchost  localhost
+     -ipcport  51865
+
+Sun Oct 06 14:51:37 2019
+
+Total Line Count = 788
+
+ Elaboration time 0.03125 sec.
+
+ Estimate current memory usage 74.4571 Meg. 
+
+ Total signals 14
+ Total nets 4
+ Total signal drivers 4
+ Total blocks 9
+ Total primitive blocks 2
+ Total processes 4
+ntrace select -o on -m / -l this 
+ntrace start 
+run all 
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.

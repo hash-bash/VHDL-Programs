@@ -1,0 +1,1 @@
+xst -ise "D:/Xilinx/Asynchronus_Struc_Counter/Asynchronus_Struc_Counter" -intstyle ise -ifn Asynchronus_Struc_Counter_vhdl.xst -ofn Asynchronus_Struc_Counter_vhdl.syr

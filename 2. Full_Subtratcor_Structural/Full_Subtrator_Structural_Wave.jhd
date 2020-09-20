@@ -1,0 +1,3 @@
+MODULE Full_Subtrator_Structural_Wave
+SUBMODULE Full_Subtrator_Structural_vhdl
+INSTANCE UUT

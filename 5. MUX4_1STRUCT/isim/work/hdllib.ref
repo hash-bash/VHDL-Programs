@@ -1,0 +1,10 @@
+AR waves testbench_arch C:/Xilinx/MUX4_1STRUCT/WAVES.vhw sub00/vhpl09 1570558066
+EN mux4_1st_vhdl NULL C:/Xilinx/MUX4_1STRUCT/MUX4_1ST_VHDL.vhd sub00/vhpl05 1570558063
+AR and_gate dataflow C:/Xilinx/MUX4_1STRUCT/MUX4_1ST_VHDL.vhd sub00/vhpl01 1570558058
+EN not_gate NULL C:/Xilinx/MUX4_1STRUCT/MUX4_1ST_VHDL.vhd sub00/vhpl02 1570558059
+EN waves NULL C:/Xilinx/MUX4_1STRUCT/WAVES.vhw sub00/vhpl08 1570558065
+EN or_gate NULL C:/Xilinx/MUX4_1STRUCT/MUX4_1ST_VHDL.vhd sub00/vhpl03 1570558061
+AR not_gate dataflow C:/Xilinx/MUX4_1STRUCT/MUX4_1ST_VHDL.vhd sub00/vhpl07 1570558060
+AR or_gate dataflow C:/Xilinx/MUX4_1STRUCT/MUX4_1ST_VHDL.vhd sub00/vhpl04 1570558062
+AR mux4_1st_vhdl behavioral C:/Xilinx/MUX4_1STRUCT/MUX4_1ST_VHDL.vhd sub00/vhpl06 1570558064
+EN and_gate NULL C:/Xilinx/MUX4_1STRUCT/MUX4_1ST_VHDL.vhd sub00/vhpl00 1570558057

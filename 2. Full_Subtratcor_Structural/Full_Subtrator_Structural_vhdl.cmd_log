@@ -1,0 +1,1 @@
+xst -ise "D:/Xilinx/Full_Subtrator_Structural/Full_Subtrator_Structural" -intstyle ise -ifn Full_Subtrator_Structural_vhdl.xst -ofn Full_Subtrator_Structural_vhdl.syr

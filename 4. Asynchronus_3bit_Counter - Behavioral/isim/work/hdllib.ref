@@ -1,0 +1,4 @@
+AR synchronus_3bit_counter_wave testbench_arch D:/Xilinx/Synchronus_3bit_Counter/Synchronus_3bit_Counter_Wave.vhw sub00/vhpl03 1570386380
+AR synchronus_3bit_counter_vhdl behavioral D:/Xilinx/Synchronus_3bit_Counter/Synchronus_3bit_Counter_vhdl.vhd sub00/vhpl01 1570386343
+EN synchronus_3bit_counter_vhdl NULL D:/Xilinx/Synchronus_3bit_Counter/Synchronus_3bit_Counter_vhdl.vhd sub00/vhpl00 1570386342
+EN synchronus_3bit_counter_wave NULL D:/Xilinx/Synchronus_3bit_Counter/Synchronus_3bit_Counter_Wave.vhw sub00/vhpl02 1570386379

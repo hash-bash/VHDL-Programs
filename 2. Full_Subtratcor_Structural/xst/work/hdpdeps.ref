@@ -1,0 +1,31 @@
+V3 12
+FL D:/Xilinx/Full_Subtrator_Structural/Full_Subtrator_Structural_vhdl.vhd 2019/10/06.02:52:00 I.24
+EN work/FS_XOR 1570310562 \
+      FL D:/Xilinx/Full_Subtrator_Structural/Full_Subtrator_Structural_vhdl.vhd \
+      PB ieee/std_logic_1164 1131108373 PB ieee/std_logic_arith 1131108375 \
+      PB ieee/STD_LOGIC_UNSIGNED 1131108379
+AR work/FS_XOR/DATAFLOW 1570310563 \
+      FL D:/Xilinx/Full_Subtrator_Structural/Full_Subtrator_Structural_vhdl.vhd \
+      EN work/FS_XOR 1570310562
+EN work/FS_AND 1570310564 \
+      FL D:/Xilinx/Full_Subtrator_Structural/Full_Subtrator_Structural_vhdl.vhd \
+      PB ieee/std_logic_1164 1131108373 PB ieee/std_logic_arith 1131108375 \
+      PB ieee/STD_LOGIC_UNSIGNED 1131108379
+AR work/FS_AND/DATAFLOW 1570310565 \
+      FL D:/Xilinx/Full_Subtrator_Structural/Full_Subtrator_Structural_vhdl.vhd \
+      EN work/FS_AND 1570310564
+EN work/FS_OR 1570310566 \
+      FL D:/Xilinx/Full_Subtrator_Structural/Full_Subtrator_Structural_vhdl.vhd \
+      PB ieee/std_logic_1164 1131108373 PB ieee/std_logic_arith 1131108375 \
+      PB ieee/STD_LOGIC_UNSIGNED 1131108379
+AR work/FS_OR/DATAFLOW 1570310567 \
+      FL D:/Xilinx/Full_Subtrator_Structural/Full_Subtrator_Structural_vhdl.vhd \
+      EN work/FS_OR 1570310566
+EN work/Full_Subtrator_Structural_vhdl 1570310568 \
+      FL D:/Xilinx/Full_Subtrator_Structural/Full_Subtrator_Structural_vhdl.vhd \
+      PB ieee/std_logic_1164 1131108373 PB ieee/std_logic_arith 1131108375 \
+      PB ieee/STD_LOGIC_UNSIGNED 1131108379
+AR work/Full_Subtrator_Structural_vhdl/Behavioral 1570310569 \
+      FL D:/Xilinx/Full_Subtrator_Structural/Full_Subtrator_Structural_vhdl.vhd \
+      EN work/Full_Subtrator_Structural_vhdl 1570310568 CP FS_XOR CP FS_AND \
+      CP FS_OR

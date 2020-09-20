@@ -1,0 +1,4 @@
+AR half_subtractor_dataflow_vhdl dataflow D:/Xilinx/Half_Subtractor_Dataflow/Half_Subtractor_Dataflow_vhdl.vhd sub00/vhpl01 1570354017
+AR half_subtractor_dataflow_wave testbench_arch D:/Xilinx/Half_Subtractor_Dataflow/Half_Subtractor_Dataflow_Wave.vhw sub00/vhpl03 1570354019
+EN half_subtractor_dataflow_vhdl NULL D:/Xilinx/Half_Subtractor_Dataflow/Half_Subtractor_Dataflow_vhdl.vhd sub00/vhpl00 1570354016
+EN half_subtractor_dataflow_wave NULL D:/Xilinx/Half_Subtractor_Dataflow/Half_Subtractor_Dataflow_Wave.vhw sub00/vhpl02 1570354018

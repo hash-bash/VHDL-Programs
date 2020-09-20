@@ -1,0 +1,16 @@
+V3 6
+FL D:/Xilinx/Synchronus_4_counter_Structural/Synchronus_4_counter_Structural_Vhdl.vhd 2019/10/08.19:42:10 I.24
+EN work/JK_FF 1570543979 \
+      FL D:/Xilinx/Synchronus_4_counter_Structural/Synchronus_4_counter_Structural_Vhdl.vhd \
+      PB ieee/std_logic_1164 1131108373 PB ieee/std_logic_arith 1131108375 \
+      PB ieee/STD_LOGIC_UNSIGNED 1131108379
+AR work/JK_FF/Behavioral 1570543980 \
+      FL D:/Xilinx/Synchronus_4_counter_Structural/Synchronus_4_counter_Structural_Vhdl.vhd \
+      EN work/JK_FF 1570543979
+EN work/Synchronus_4_counter_Structural_Vhdl 1570543981 \
+      FL D:/Xilinx/Synchronus_4_counter_Structural/Synchronus_4_counter_Structural_Vhdl.vhd \
+      PB ieee/std_logic_1164 1131108373 PB ieee/std_logic_arith 1131108375 \
+      PB ieee/STD_LOGIC_UNSIGNED 1131108379
+AR work/Synchronus_4_counter_Structural_Vhdl/STRUCTURAL 1570543982 \
+      FL D:/Xilinx/Synchronus_4_counter_Structural/Synchronus_4_counter_Structural_Vhdl.vhd \
+      EN work/Synchronus_4_counter_Structural_Vhdl 1570543981 CP JK_FF

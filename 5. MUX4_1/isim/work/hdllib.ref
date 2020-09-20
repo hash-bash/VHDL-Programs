@@ -1,0 +1,4 @@
+EN mux4_1wave NULL C:/Xilinx/MUX4_1/MUX4_1WAVE.vhw sub00/vhpl02 1570342577
+AR mux4_1wave testbench_arch C:/Xilinx/MUX4_1/MUX4_1WAVE.vhw sub00/vhpl03 1570342578
+EN mux4_1vhdl NULL C:/Xilinx/MUX4_1/MUX4_1VHDL.vhd sub00/vhpl00 1570342575
+AR mux4_1vhdl behavioral C:/Xilinx/MUX4_1/MUX4_1VHDL.vhd sub00/vhpl01 1570342576

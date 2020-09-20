@@ -1,0 +1,8 @@
+AR hs_and dataflow D:/Xilinx/Half_Subtractor_Structural/Half_Subtractor_Structural_vhdl.vhd sub00/vhpl03 1570354959
+AR hs_xor dataflow D:/Xilinx/Half_Subtractor_Structural/Half_Subtractor_Structural_vhdl.vhd sub00/vhpl01 1570354957
+AR half_subtractor_structural_wave testbench_arch D:/Xilinx/Half_Subtractor_Structural/Half_Subtractor_Structural_Wave.vhw sub00/vhpl07 1570354963
+EN half_subtractor_structural_vhdl NULL D:/Xilinx/Half_Subtractor_Structural/Half_Subtractor_Structural_vhdl.vhd sub00/vhpl04 1570354960
+AR half_subtractor_structural_vhdl structural D:/Xilinx/Half_Subtractor_Structural/Half_Subtractor_Structural_vhdl.vhd sub00/vhpl05 1570354961
+EN half_subtractor_structural_wave NULL D:/Xilinx/Half_Subtractor_Structural/Half_Subtractor_Structural_Wave.vhw sub00/vhpl06 1570354962
+EN hs_and NULL D:/Xilinx/Half_Subtractor_Structural/Half_Subtractor_Structural_vhdl.vhd sub00/vhpl02 1570354958
+EN hs_xor NULL D:/Xilinx/Half_Subtractor_Structural/Half_Subtractor_Structural_vhdl.vhd sub00/vhpl00 1570354956

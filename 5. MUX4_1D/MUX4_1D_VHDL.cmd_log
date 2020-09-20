@@ -1,0 +1,1 @@
+xst -ise "C:/Xilinx/FULL ADDER/MUX4_1D/MUX4_1D" -intstyle ise -ifn MUX4_1D_VHDL.xst -ofn MUX4_1D_VHDL.syr

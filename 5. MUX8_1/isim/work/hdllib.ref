@@ -1,0 +1,4 @@
+AR mux8_1vhdl behavioral C:/Xilinx/MUX8_1/MUX8_1VHDL.vhd sub00/vhpl01 1570345075
+EN mux8_1vhdl NULL C:/Xilinx/MUX8_1/MUX8_1VHDL.vhd sub00/vhpl00 1570345074
+AR mux8_1wave testbench_arch C:/Xilinx/MUX8_1/MUX8_1WAVE.vhw sub00/vhpl03 1570345077
+EN mux8_1wave NULL C:/Xilinx/MUX8_1/MUX8_1WAVE.vhw sub00/vhpl02 1570345076

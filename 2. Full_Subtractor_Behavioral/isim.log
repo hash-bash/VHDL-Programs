@@ -1,0 +1,25 @@
+ command line:
+   ./Full_Subtrator_Behavioral_Wave_isim_beh.exe
+     -intstyle  ise
+     -ipchost  localhost
+     -ipcport  65379
+
+Sun Oct 06 02:29:47 2019
+
+Total Line Count = 787
+
+ Elaboration time 0 sec.
+
+ Estimate current memory usage 74.0639 Meg. 
+
+ Total signals 10
+ Total nets 5
+ Total signal drivers 5
+ Total blocks 7
+ Total primitive blocks 1
+ Total processes 3
+ntrace select -o on -m / -l this 
+ntrace start 
+run all 
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.

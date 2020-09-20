@@ -1,0 +1,6 @@
+EN jk_ff NULL D:/Xilinx/Asynchronus_Struc_Counter/Asynchronus_Struc_Counter_vhdl.vhd sub00/vhpl00 1570542995
+EN jk_ff_vhdl NULL D:/Xilinx/JK_FF/JK_FF_vhdl.vhd sub00/vhpl02 1570542922
+AR jk_ff_vhdl behavioral D:/Xilinx/JK_FF/JK_FF_vhdl.vhd sub00/vhpl03 1570542923
+AR asynchronus_struc_counter_vhdl structural D:/Xilinx/Asynchronus_Struc_Counter/Asynchronus_Struc_Counter_vhdl.vhd sub00/vhpl05 1570542998
+EN asynchronus_struc_counter_vhdl NULL D:/Xilinx/Asynchronus_Struc_Counter/Asynchronus_Struc_Counter_vhdl.vhd sub00/vhpl04 1570542997
+AR jk_ff behavioral D:/Xilinx/Asynchronus_Struc_Counter/Asynchronus_Struc_Counter_vhdl.vhd sub00/vhpl01 1570542996

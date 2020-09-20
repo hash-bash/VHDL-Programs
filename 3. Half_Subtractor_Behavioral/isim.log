@@ -1,0 +1,25 @@
+ command line:
+   ./Half_Subtractor_Behavioral_Wave_isim_beh.exe
+     -intstyle  ise
+     -ipchost  localhost
+     -ipcport  52154
+
+Sun Oct 06 15:03:29 2019
+
+Total Line Count = 775
+
+ Elaboration time 0.015625 sec.
+
+ Estimate current memory usage 74.0844 Meg. 
+
+ Total signals 8
+ Total nets 4
+ Total signal drivers 4
+ Total blocks 7
+ Total primitive blocks 1
+ Total processes 3
+ntrace select -o on -m / -l this 
+ntrace start 
+run all 
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.

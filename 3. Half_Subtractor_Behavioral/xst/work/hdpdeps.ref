@@ -1,0 +1,9 @@
+V3 3
+FL D:/Xilinx/Half_Subtractor_Behavioral/Half_Subtractor_Behavioral_vhdl.vhd 2019/10/06.15:02:11 I.24
+EN work/Half_Subtractor_Behavioral_vhdl 1570354378 \
+      FL D:/Xilinx/Half_Subtractor_Behavioral/Half_Subtractor_Behavioral_vhdl.vhd \
+      PB ieee/std_logic_1164 1131108373 PB ieee/std_logic_arith 1131108375 \
+      PB ieee/STD_LOGIC_UNSIGNED 1131108379
+AR work/Half_Subtractor_Behavioral_vhdl/Behavioral 1570354379 \
+      FL D:/Xilinx/Half_Subtractor_Behavioral/Half_Subtractor_Behavioral_vhdl.vhd \
+      EN work/Half_Subtractor_Behavioral_vhdl 1570354378

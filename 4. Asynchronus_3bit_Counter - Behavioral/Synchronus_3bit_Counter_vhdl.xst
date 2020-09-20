@@ -1,0 +1,4 @@
+set -tmpdir ./xst/projnav.tmp
+elaborate
+-ifn Synchronus_3bit_Counter_vhdl.prj
+-ifmt mixed

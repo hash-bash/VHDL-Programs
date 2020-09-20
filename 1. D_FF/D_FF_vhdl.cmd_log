@@ -1,0 +1,2 @@
+xst -ise "D:/Xilinx/D_FF/D_FF" -intstyle ise -ifn D_FF_vhdl.xst -ofn D_FF_vhdl.syr
+xst -ise "D:/Xilinx/D_FF/D_FF" -intstyle ise -ifn D_FF_vhdl.xst -ofn D_FF_vhdl.syr

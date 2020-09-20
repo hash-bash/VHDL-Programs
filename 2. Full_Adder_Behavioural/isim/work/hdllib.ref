@@ -1,0 +1,4 @@
+AR full_adder_behavioural_vhdl behavioral C:/Xilinx/Full_Adder_Behavioural/Full_Adder_Behavioural_vhdl.vhd sub00/vhpl01 1570299985
+EN full_adder_behavioural_vhdl NULL C:/Xilinx/Full_Adder_Behavioural/Full_Adder_Behavioural_vhdl.vhd sub00/vhpl00 1570299984
+AR full_adder_behavioural_wave testbench_arch C:/Xilinx/Full_Adder_Behavioural/Full_Adder_Behavioural_Wave.vhw sub00/vhpl03 1570299987
+EN full_adder_behavioural_wave NULL C:/Xilinx/Full_Adder_Behavioural/Full_Adder_Behavioural_Wave.vhw sub00/vhpl02 1570299986

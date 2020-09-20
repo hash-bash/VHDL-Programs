@@ -1,0 +1,1 @@
+xst -ise "D:/Xilinx/Half_Adder_Behhavioural/Half_Adder_Behhavioural" -intstyle ise -ifn Half_Adder_Behhavioural_vhdl.xst -ofn Half_Adder_Behhavioural_vhdl.syr

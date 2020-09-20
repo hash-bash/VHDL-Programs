@@ -1,0 +1,25 @@
+ command line:
+   ./Full_Subtrator_Structural_Wave_isim_beh.exe
+     -intstyle  ise
+     -ipchost  localhost
+     -ipcport  49207
+
+Sun Oct 06 02:54:24 2019
+
+Total Line Count = 841
+
+ Elaboration time 0 sec.
+
+ Estimate current memory usage 74.199 Meg. 
+
+ Total signals 36
+ Total nets 12
+ Total signal drivers 12
+ Total blocks 14
+ Total primitive blocks 7
+ Total processes 11
+ntrace select -o on -m / -l this 
+ntrace start 
+run all 
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.

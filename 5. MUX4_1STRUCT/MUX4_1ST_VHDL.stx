@@ -1,0 +1,28 @@
+Release 8.1i - xst I.24
+Copyright (c) 1995-2005 Xilinx, Inc.  All rights reserved.
+--> Parameter TMPDIR set to ./xst/projnav.tmp
+CPU : 0.00 / 0.20 s | Elapsed : 0.00 / 0.00 s
+ 
+--> 
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling vhdl file "C:/Xilinx/MUX4_1STRUCT/MUX4_1ST_VHDL.vhd" in Library work.
+Entity <and_gate> compiled.
+Entity <and_gate> (Architecture <dataflow>) compiled.
+Entity <not_gate> compiled.
+Entity <or_gate> (Architecture <dataflow>) compiled.
+Entity <or_gate> compiled.
+Architecture dataflow of Entity or_gate is up to date.
+Entity <mux4_1st_vhdl> compiled.
+Entity <mux4_1st_vhdl> (Architecture <behavioral>) compiled.
+CPU : 0.06 / 0.26 s | Elapsed : 0.00 / 0.00 s
+ 
+--> 
+
+Total memory usage is 143640 kilobytes
+
+Number of errors   :    0 (   0 filtered)
+Number of warnings :    0 (   0 filtered)
+Number of infos    :    0 (   0 filtered)
+

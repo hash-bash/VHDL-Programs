@@ -1,0 +1,4 @@
+AR full_subtracter_dataflow_vhdl behavioral C:/Xilinx/Full_Subtracter_Dataflow/Full_Subtracter_Dataflow_Vhdl.vhd sub00/vhpl03 1570306337
+AR full_adder_dataflow_vhdl behavioral C:/Xilinx/Full_Subtracter_Dataflow/Full_Adder_Dataflow_vhdl.vhd sub00/vhpl01 1570306240
+EN full_subtracter_dataflow_vhdl NULL C:/Xilinx/Full_Subtracter_Dataflow/Full_Subtracter_Dataflow_Vhdl.vhd sub00/vhpl02 1570306336
+EN full_adder_dataflow_vhdl NULL C:/Xilinx/Full_Subtracter_Dataflow/Full_Adder_Dataflow_vhdl.vhd sub00/vhpl00 1570306239

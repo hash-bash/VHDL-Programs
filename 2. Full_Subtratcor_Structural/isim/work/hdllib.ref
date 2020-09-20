@@ -1,0 +1,10 @@
+AR fs_or dataflow D:/Xilinx/Full_Subtrator_Structural/Full_Subtrator_Structural_vhdl.vhd sub00/vhpl05 1570310665
+AR fs_and dataflow D:/Xilinx/Full_Subtrator_Structural/Full_Subtrator_Structural_vhdl.vhd sub00/vhpl03 1570310663
+EN full_subtrator_structural_vhdl NULL D:/Xilinx/Full_Subtrator_Structural/Full_Subtrator_Structural_vhdl.vhd sub00/vhpl06 1570310666
+AR full_subtrator_structural_wave testbench_arch D:/Xilinx/Full_Subtrator_Structural/Full_Subtrator_Structural_Wave.vhw sub00/vhpl09 1570310669
+EN full_subtrator_structural_wave NULL D:/Xilinx/Full_Subtrator_Structural/Full_Subtrator_Structural_Wave.vhw sub00/vhpl08 1570310668
+AR fs_xor dataflow D:/Xilinx/Full_Subtrator_Structural/Full_Subtrator_Structural_vhdl.vhd sub00/vhpl01 1570310661
+EN fs_and NULL D:/Xilinx/Full_Subtrator_Structural/Full_Subtrator_Structural_vhdl.vhd sub00/vhpl02 1570310662
+EN fs_xor NULL D:/Xilinx/Full_Subtrator_Structural/Full_Subtrator_Structural_vhdl.vhd sub00/vhpl00 1570310660
+EN fs_or NULL D:/Xilinx/Full_Subtrator_Structural/Full_Subtrator_Structural_vhdl.vhd sub00/vhpl04 1570310664
+AR full_subtrator_structural_vhdl behavioral D:/Xilinx/Full_Subtrator_Structural/Full_Subtrator_Structural_vhdl.vhd sub00/vhpl07 1570310667

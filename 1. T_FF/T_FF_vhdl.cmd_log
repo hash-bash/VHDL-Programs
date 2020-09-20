@@ -1,0 +1,1 @@
+xst -ise "D:/Xilinx/T_FF/T_FF" -intstyle ise -ifn T_FF_vhdl.xst -ofn T_FF_vhdl.syr

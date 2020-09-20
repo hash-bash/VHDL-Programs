@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- IMPORTANT: This is an internal file that has been generated
+     by the Xilinx ISE software.  Any direct editing or
+     changes made to this file may result in unpredictable
+     behavior or data corruption.  It is strongly advised that
+     users do not edit the contents of this file. -->
+<messages>
+<msg type="warning" file="HDLParsers" num="3300" delta="unknown" >Invalid date.time (&quot;<arg fmt="%s" index="1">ADDER/MUX4_1D/MUX4_1D_VHDL.vhd</arg>&quot;) scanned for file &quot;<arg fmt="%s" index="2">C:/Xilinx/FULL</arg>&quot; in dependency database.
+</msg>
+
+<msg type="warning" file="HDLParsers" num="3300" delta="unknown" >Invalid date.time (&quot;<arg fmt="%s" index="1">I.24</arg>&quot;) scanned for file &quot;<arg fmt="%s" index="2">C:/Xilinx/FULL</arg>&quot; in dependency database.
+</msg>
+
+<msg type="warning" file="HDLParsers" num="11" delta="unknown" ><arg fmt="%s" index="1">xst/work/hdpdeps.ref</arg>.<arg fmt="%d" index="2">3</arg>: Invalid unit type: <arg fmt="%s" index="3">ADDER/MUX4_1D/MUX4_1D_VHDL.vhd</arg>
+</msg>
+
+<msg type="warning" file="HDLParsers" num="11" delta="unknown" ><arg fmt="%s" index="1">xst/work/hdpdeps.ref</arg>.<arg fmt="%d" index="2">6</arg>: Invalid unit type: <arg fmt="%s" index="3">ADDER/MUX4_1D/MUX4_1D_VHDL.vhd</arg>
+</msg>
+
+<msg type="warning" file="HDLParsers" num="3215" delta="unknown" >Unit <arg fmt="%s" index="1">work/MUX4_1D_VHDL</arg> is now defined in a different file: was <arg fmt="%s" index="2">C:/Xilinx/FULL</arg>, now is <arg fmt="%s" index="3">C:/Xilinx/FULL ADDER/MUX4_1D/MUX4_1D_VHDL.vhd</arg>
+</msg>
+
+<msg type="warning" file="HDLParsers" num="3215" delta="unknown" >Unit <arg fmt="%s" index="1">work/MUX4_1D_VHDL/Behavioral</arg> is now defined in a different file: was <arg fmt="%s" index="2">C:/Xilinx/FULL</arg>, now is <arg fmt="%s" index="3">C:/Xilinx/FULL ADDER/MUX4_1D/MUX4_1D_VHDL.vhd</arg>
+</msg>
+
+</messages>

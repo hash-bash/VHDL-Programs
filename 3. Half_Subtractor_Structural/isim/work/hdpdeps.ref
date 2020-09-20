@@ -1,0 +1,33 @@
+V3 13
+FL D:/Xilinx/Half_Subtractor_Structural/Half_Subtractor_Structural_vhdl.vhd 2019/10/06.15:11:24 I.24
+EN work/HS_XOR 1570354956 \
+      FL D:/Xilinx/Half_Subtractor_Structural/Half_Subtractor_Structural_vhdl.vhd \
+      PB ieee/std_logic_1164 1132105529 PB ieee/std_logic_arith 1132105531 \
+      PB ieee/STD_LOGIC_UNSIGNED 1132105537
+AR work/HS_XOR/DATAFLOW 1570354957 \
+      FL D:/Xilinx/Half_Subtractor_Structural/Half_Subtractor_Structural_vhdl.vhd \
+      EN work/HS_XOR 1570354956
+EN work/HS_AND 1570354958 \
+      FL D:/Xilinx/Half_Subtractor_Structural/Half_Subtractor_Structural_vhdl.vhd \
+      PB ieee/std_logic_1164 1132105529 PB ieee/std_logic_arith 1132105531 \
+      PB ieee/STD_LOGIC_UNSIGNED 1132105537
+AR work/HS_AND/DATAFLOW 1570354959 \
+      FL D:/Xilinx/Half_Subtractor_Structural/Half_Subtractor_Structural_vhdl.vhd \
+      EN work/HS_AND 1570354958
+EN work/Half_Subtractor_Structural_vhdl 1570354960 \
+      FL D:/Xilinx/Half_Subtractor_Structural/Half_Subtractor_Structural_vhdl.vhd \
+      PB ieee/std_logic_1164 1132105529 PB ieee/std_logic_arith 1132105531 \
+      PB ieee/STD_LOGIC_UNSIGNED 1132105537
+AR work/Half_Subtractor_Structural_vhdl/STRUCTURAL 1570354961 \
+      FL D:/Xilinx/Half_Subtractor_Structural/Half_Subtractor_Structural_vhdl.vhd \
+      EN work/Half_Subtractor_Structural_vhdl 1570354960 CP HS_XOR CP HS_AND
+FL D:/Xilinx/Half_Subtractor_Structural/Half_Subtractor_Structural_Wave.vhw 2019/10/06.15:12:35 I.24
+EN work/Half_Subtractor_Structural_Wave 1570354962 \
+      FL D:/Xilinx/Half_Subtractor_Structural/Half_Subtractor_Structural_Wave.vhw \
+      PB ieee/std_logic_1164 1132105529 PB ieee/std_logic_arith 1132105531 \
+      PB ieee/STD_LOGIC_UNSIGNED 1132105537 PB ieee/STD_LOGIC_TEXTIO 1132105539 \
+      PB std/textio 1132105521
+AR work/Half_Subtractor_Structural_Wave/testbench_arch 1570354963 \
+      FL D:/Xilinx/Half_Subtractor_Structural/Half_Subtractor_Structural_Wave.vhw \
+      EN work/Half_Subtractor_Structural_Wave 1570354962 \
+      CP Half_Subtractor_Structural_vhdl PB ieee/STD_LOGIC_TEXTIO 1132105539

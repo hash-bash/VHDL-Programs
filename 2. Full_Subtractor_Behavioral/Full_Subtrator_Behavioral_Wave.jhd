@@ -1,0 +1,3 @@
+MODULE Full_Subtrator_Behavioral_Wave
+SUBMODULE Full_Subtrator_Behavioral_vhdl
+INSTANCE UUT

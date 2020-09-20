@@ -1,0 +1,8 @@
+xst -ise "C:/Xilinx/MUX4_1STRUCT/MUX4_1STRUCT" -intstyle ise -ifn MUX4_1ST_VHDL.xst -ofn MUX4_1ST_VHDL.syr
+xst -ise "C:/Xilinx/MUX4_1STRUCT/MUX4_1STRUCT" -intstyle ise -ifn MUX4_1ST_VHDL.xst -ofn MUX4_1ST_VHDL.syr
+xst -ise "C:/Xilinx/MUX4_1STRUCT/MUX4_1STRUCT" -intstyle ise -ifn MUX4_1ST_VHDL.xst -ofn MUX4_1ST_VHDL.syr
+xst -ise "C:/Xilinx/MUX4_1STRUCT/MUX4_1STRUCT" -intstyle ise -ifn MUX4_1ST_VHDL.xst -ofn MUX4_1ST_VHDL.syr
+xst -ise "C:/Xilinx/MUX4_1STRUCT/MUX4_1STRUCT" -intstyle ise -ifn MUX4_1ST_VHDL.xst -ofn MUX4_1ST_VHDL.syr
+xst -ise "C:/Xilinx/MUX4_1STRUCT/MUX4_1STRUCT" -intstyle ise -ifn MUX4_1ST_VHDL.xst -ofn MUX4_1ST_VHDL.syr
+xst -ise "C:/Xilinx/MUX4_1STRUCT/MUX4_1STRUCT" -intstyle ise -ifn MUX4_1ST_VHDL.xst -ofn MUX4_1ST_VHDL.syr
+xst -ise "C:/Xilinx/MUX4_1STRUCT/MUX4_1STRUCT" -intstyle ise -ifn MUX4_1ST_VHDL.xst -ofn MUX4_1ST_VHDL.syr

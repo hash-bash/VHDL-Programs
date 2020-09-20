@@ -1,0 +1,2 @@
+xst -ise "C:/Xilinx/DECODER3_8/DECODER3_8" -intstyle ise -ifn DECODER3_8VHDL.xst -ofn DECODER3_8VHDL.syr
+xst -ise "C:/Xilinx/DECODER3_8/DECODER3_8" -intstyle ise -ifn DECODER3_8VHDL.xst -ofn DECODER3_8VHDL.syr

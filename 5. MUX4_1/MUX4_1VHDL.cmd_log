@@ -1,0 +1,1 @@
+xst -ise "C:/Xilinx/MUX4_1/MUX4_1" -intstyle ise -ifn MUX4_1VHDL.xst -ofn MUX4_1VHDL.syr

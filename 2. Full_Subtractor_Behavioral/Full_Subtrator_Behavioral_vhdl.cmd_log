@@ -1,0 +1,1 @@
+xst -ise "D:/Xilinx/Full_Subtrator_Behavioral/Full_Subtrator_Behavioral" -intstyle ise -ifn Full_Subtrator_Behavioral_vhdl.xst -ofn Full_Subtrator_Behavioral_vhdl.syr

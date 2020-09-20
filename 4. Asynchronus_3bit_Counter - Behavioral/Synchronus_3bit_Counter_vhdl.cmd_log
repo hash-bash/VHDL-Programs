@@ -1,0 +1,1 @@
+xst -ise "D:/Xilinx/Synchronus_3bit_Counter/Synchronus_3bit_Counter" -intstyle ise -ifn Synchronus_3bit_Counter_vhdl.xst -ofn Synchronus_3bit_Counter_vhdl.syr

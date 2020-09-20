@@ -1,0 +1,28 @@
+ command line:
+   ./Synchronus_3bit_Counter_Wave_isim_beh.exe
+     -intstyle  ise
+     -ipchost  localhost
+     -ipcport  56543
+
+Sun Oct 06 23:56:21 2019
+
+Total Line Count = 744
+
+ Elaboration time 0.015625 sec.
+
+ Estimate current memory usage 73.5355 Meg. 
+
+ Total signals 9
+ Total nets 9
+ Total signal drivers 4
+ Total blocks 7
+ Total primitive blocks 1
+ Total processes 4
+ntrace select -o on -n /Synchronus_3bit_Counter_Wave/rst 
+ntrace select -o on -n /Synchronus_3bit_Counter_Wave/clk 
+ntrace select -o on -n /Synchronus_3bit_Counter_Wave/up 
+ntrace select -o on -n /Synchronus_3bit_Counter_Wave/z 
+ntrace start 
+run all 
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.

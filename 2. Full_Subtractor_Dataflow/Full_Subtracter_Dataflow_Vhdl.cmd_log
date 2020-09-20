@@ -1,0 +1,1 @@
+xst -ise "C:/Xilinx/Full_Subtracter_Dataflow/Full_Adder_Dataflow" -intstyle ise -ifn Full_Subtracter_Dataflow_Vhdl.xst -ofn Full_Subtracter_Dataflow_Vhdl.syr

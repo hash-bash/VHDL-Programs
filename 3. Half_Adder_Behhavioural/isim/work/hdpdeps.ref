@@ -1,0 +1,19 @@
+V3 7
+FL D:/Xilinx/Half_Adder_Behhavioural/Half_Adder_Behhavioural_Wave.vhw 2019/10/06.14:39:49 I.24
+EN work/Half_Adder_Behhavioural_Wave 1570353003 \
+      FL D:/Xilinx/Half_Adder_Behhavioural/Half_Adder_Behhavioural_Wave.vhw \
+      PB ieee/std_logic_1164 1132105529 PB ieee/std_logic_arith 1132105531 \
+      PB ieee/STD_LOGIC_UNSIGNED 1132105537 PB ieee/STD_LOGIC_TEXTIO 1132105539 \
+      PB std/textio 1132105521
+AR work/Half_Adder_Behhavioural_Wave/testbench_arch 1570353004 \
+      FL D:/Xilinx/Half_Adder_Behhavioural/Half_Adder_Behhavioural_Wave.vhw \
+      EN work/Half_Adder_Behhavioural_Wave 1570353003 \
+      CP Half_Adder_Behhavioural_vhdl PB ieee/STD_LOGIC_TEXTIO 1132105539
+FL D:/Xilinx/Half_Adder_Behhavioural/Half_Adder_Behhavioural_vhdl.vhd 2019/10/06.14:38:55 I.24
+EN work/Half_Adder_Behhavioural_vhdl 1570353001 \
+      FL D:/Xilinx/Half_Adder_Behhavioural/Half_Adder_Behhavioural_vhdl.vhd \
+      PB ieee/std_logic_1164 1132105529 PB ieee/std_logic_arith 1132105531 \
+      PB ieee/STD_LOGIC_UNSIGNED 1132105537
+AR work/Half_Adder_Behhavioural_vhdl/Behavioral 1570353002 \
+      FL D:/Xilinx/Half_Adder_Behhavioural/Half_Adder_Behhavioural_vhdl.vhd \
+      EN work/Half_Adder_Behhavioural_vhdl 1570353001

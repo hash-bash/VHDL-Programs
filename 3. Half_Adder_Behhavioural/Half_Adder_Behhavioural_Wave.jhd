@@ -1,0 +1,3 @@
+MODULE Half_Adder_Behhavioural_Wave
+SUBMODULE Half_Adder_Behhavioural_vhdl
+INSTANCE UUT

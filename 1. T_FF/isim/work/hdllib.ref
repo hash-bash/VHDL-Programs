@@ -1,0 +1,4 @@
+EN t_ff_vhdl NULL D:/Xilinx/T_FF/T_FF_vhdl.vhd sub00/vhpl00 1570384175
+EN t_ff_wave NULL D:/Xilinx/T_FF/T_FF_Wave.vhw sub00/vhpl02 1570384177
+AR t_ff_vhdl behavioral D:/Xilinx/T_FF/T_FF_vhdl.vhd sub00/vhpl01 1570384176
+AR t_ff_wave testbench_arch D:/Xilinx/T_FF/T_FF_Wave.vhw sub00/vhpl03 1570384178

@@ -1,0 +1,3 @@
+MODULE Synchronus_4_counter_Structural_Wave
+SUBMODULE Synchronus_4_counter_Structural_Vhdl
+INSTANCE UUT

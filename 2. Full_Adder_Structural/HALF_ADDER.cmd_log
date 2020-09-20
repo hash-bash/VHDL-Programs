@@ -1,0 +1,1 @@
+xst -ise "D:/Xilinx/Full_Adder_Structural/Full_Adder_Structural" -intstyle ise -ifn HALF_ADDER.xst -ofn HALF_ADDER.syr

@@ -1,0 +1,23 @@
+V3 9
+FL D:/Xilinx/Half_Subtractor_Structural/Half_Subtractor_Structural_vhdl.vhd 2019/10/06.15:11:24 I.24
+EN work/HS_XOR 1570354928 \
+      FL D:/Xilinx/Half_Subtractor_Structural/Half_Subtractor_Structural_vhdl.vhd \
+      PB ieee/std_logic_1164 1131108373 PB ieee/std_logic_arith 1131108375 \
+      PB ieee/STD_LOGIC_UNSIGNED 1131108379
+AR work/HS_XOR/DATAFLOW 1570354929 \
+      FL D:/Xilinx/Half_Subtractor_Structural/Half_Subtractor_Structural_vhdl.vhd \
+      EN work/HS_XOR 1570354928
+EN work/HS_AND 1570354930 \
+      FL D:/Xilinx/Half_Subtractor_Structural/Half_Subtractor_Structural_vhdl.vhd \
+      PB ieee/std_logic_1164 1131108373 PB ieee/std_logic_arith 1131108375 \
+      PB ieee/STD_LOGIC_UNSIGNED 1131108379
+AR work/HS_AND/DATAFLOW 1570354931 \
+      FL D:/Xilinx/Half_Subtractor_Structural/Half_Subtractor_Structural_vhdl.vhd \
+      EN work/HS_AND 1570354930
+EN work/Half_Subtractor_Structural_vhdl 1570354932 \
+      FL D:/Xilinx/Half_Subtractor_Structural/Half_Subtractor_Structural_vhdl.vhd \
+      PB ieee/std_logic_1164 1131108373 PB ieee/std_logic_arith 1131108375 \
+      PB ieee/STD_LOGIC_UNSIGNED 1131108379
+AR work/Half_Subtractor_Structural_vhdl/STRUCTURAL 1570354933 \
+      FL D:/Xilinx/Half_Subtractor_Structural/Half_Subtractor_Structural_vhdl.vhd \
+      EN work/Half_Subtractor_Structural_vhdl 1570354932 CP HS_XOR CP HS_AND

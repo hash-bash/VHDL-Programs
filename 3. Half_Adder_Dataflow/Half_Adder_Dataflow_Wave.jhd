@@ -1,0 +1,3 @@
+MODULE Half_Adder_Dataflow_Wave
+SUBMODULE Half_Adder_Dataflow_vhdl
+INSTANCE UUT

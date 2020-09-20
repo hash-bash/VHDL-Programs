@@ -1,0 +1,4 @@
+AR d_ff_wave testbench_arch D:/Xilinx/D_FF/D_FF_WAVE.vhw sub00/vhpl03 1570382664
+AR d_ff_vhdl behavioral D:/Xilinx/D_FF/D_FF_vhdl.vhd sub00/vhpl01 1570382625
+EN d_ff_vhdl NULL D:/Xilinx/D_FF/D_FF_vhdl.vhd sub00/vhpl00 1570382624
+EN d_ff_wave NULL D:/Xilinx/D_FF/D_FF_WAVE.vhw sub00/vhpl02 1570382663

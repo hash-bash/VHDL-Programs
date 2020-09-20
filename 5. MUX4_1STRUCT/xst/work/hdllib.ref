@@ -1,0 +1,7 @@
+EN mux4_1st_vhdl NULL C:/Xilinx/MUX4_1STRUCT/MUX4_1ST_VHDL.vhd sub00/vhpl00 1570557946
+AR and_gate dataflow C:/Xilinx/MUX4_1STRUCT/MUX4_1ST_VHDL.vhd sub00/vhpl06 1570557941
+EN not_gate NULL C:/Xilinx/MUX4_1STRUCT/MUX4_1ST_VHDL.vhd sub00/vhpl03 1570557942
+EN or_gate NULL C:/Xilinx/MUX4_1STRUCT/MUX4_1ST_VHDL.vhd sub00/vhpl04 1570557944
+AR or_gate dataflow C:/Xilinx/MUX4_1STRUCT/MUX4_1ST_VHDL.vhd sub00/vhpl05 1570557945
+AR mux4_1st_vhdl behavioral C:/Xilinx/MUX4_1STRUCT/MUX4_1ST_VHDL.vhd sub00/vhpl01 1570557947
+EN and_gate NULL C:/Xilinx/MUX4_1STRUCT/MUX4_1ST_VHDL.vhd sub00/vhpl02 1570557940

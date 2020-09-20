@@ -1,0 +1,4 @@
+AR half_adder_behhavioural_wave testbench_arch D:/Xilinx/Half_Adder_Behhavioural/Half_Adder_Behhavioural_Wave.vhw sub00/vhpl03 1570353004
+AR half_adder_behhavioural_vhdl behavioral D:/Xilinx/Half_Adder_Behhavioural/Half_Adder_Behhavioural_vhdl.vhd sub00/vhpl01 1570353002
+EN half_adder_behhavioural_vhdl NULL D:/Xilinx/Half_Adder_Behhavioural/Half_Adder_Behhavioural_vhdl.vhd sub00/vhpl00 1570353001
+EN half_adder_behhavioural_wave NULL D:/Xilinx/Half_Adder_Behhavioural/Half_Adder_Behhavioural_Wave.vhw sub00/vhpl02 1570353003

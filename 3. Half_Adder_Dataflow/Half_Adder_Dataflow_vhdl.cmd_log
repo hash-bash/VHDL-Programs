@@ -1,0 +1,1 @@
+xst -ise "D:/Xilinx/Half_Adder_Dataflow/Half_Adder_Dataflow" -intstyle ise -ifn Half_Adder_Dataflow_vhdl.xst -ofn Half_Adder_Dataflow_vhdl.syr

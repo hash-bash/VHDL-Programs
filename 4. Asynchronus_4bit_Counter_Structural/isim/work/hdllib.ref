@@ -1,0 +1,6 @@
+AR asynchronus_struc_counter_wave testbench_arch D:/Xilinx/Asynchronus_Struc_Counter/Asynchronus_Struc_Counter_WAVE.vhw sub00/vhpl05 1570543066
+EN jk_ff NULL D:/Xilinx/Asynchronus_Struc_Counter/Asynchronus_Struc_Counter_vhdl.vhd sub00/vhpl00 1570543061
+AR asynchronus_struc_counter_vhdl structural D:/Xilinx/Asynchronus_Struc_Counter/Asynchronus_Struc_Counter_vhdl.vhd sub00/vhpl03 1570543064
+EN asynchronus_struc_counter_vhdl NULL D:/Xilinx/Asynchronus_Struc_Counter/Asynchronus_Struc_Counter_vhdl.vhd sub00/vhpl02 1570543063
+EN asynchronus_struc_counter_wave NULL D:/Xilinx/Asynchronus_Struc_Counter/Asynchronus_Struc_Counter_WAVE.vhw sub00/vhpl04 1570543065
+AR jk_ff behavioral D:/Xilinx/Asynchronus_Struc_Counter/Asynchronus_Struc_Counter_vhdl.vhd sub00/vhpl01 1570543062

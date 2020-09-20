@@ -1,0 +1,25 @@
+ command line:
+   ./WAVES_isim_beh.exe
+     -intstyle  ise
+     -ipchost  localhost
+     -ipcport  51031
+
+Tue Oct 08 23:37:44 2019
+
+Total Line Count = 841
+
+ Elaboration time 0 sec.
+
+ Estimate current memory usage 74.0024 Meg. 
+
+ Total signals 45
+ Total nets 13
+ Total signal drivers 12
+ Total blocks 14
+ Total primitive blocks 7
+ Total processes 9
+ntrace select -o on -m / -l this 
+ntrace start 
+run all 
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.

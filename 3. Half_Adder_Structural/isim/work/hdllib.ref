@@ -1,0 +1,8 @@
+AR ha_xor dataflow D:/Xilinx/Half_Adder_Structural/Half_Adder_Structural_vhdl.vhd sub00/vhpl01 1570353695
+EN ha_and NULL D:/Xilinx/Half_Adder_Structural/Half_Adder_Structural_vhdl.vhd sub00/vhpl02 1570353696
+EN ha_xor NULL D:/Xilinx/Half_Adder_Structural/Half_Adder_Structural_vhdl.vhd sub00/vhpl00 1570353694
+EN half_adder_structural_vhdl NULL D:/Xilinx/Half_Adder_Structural/Half_Adder_Structural_vhdl.vhd sub00/vhpl04 1570353698
+AR half_adder_structural_vhdl structural D:/Xilinx/Half_Adder_Structural/Half_Adder_Structural_vhdl.vhd sub00/vhpl05 1570353699
+AR half_adder_structural_wave testbench_arch D:/Xilinx/Half_Adder_Structural/Half_Adder_Structural_Wave.vhw sub00/vhpl07 1570353701
+EN half_adder_structural_wave NULL D:/Xilinx/Half_Adder_Structural/Half_Adder_Structural_Wave.vhw sub00/vhpl06 1570353700
+AR ha_and dataflow D:/Xilinx/Half_Adder_Structural/Half_Adder_Structural_vhdl.vhd sub00/vhpl03 1570353697
